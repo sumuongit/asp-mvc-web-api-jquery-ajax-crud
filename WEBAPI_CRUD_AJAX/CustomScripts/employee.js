@@ -50,8 +50,7 @@ function GetEmployeeByID(employeeId) {
             $('#btnUpdate').show();
             $('#btnAdd').hide();
         },
-        error: function (errormessage) {
-            debugger;
+        error: function (errormessage) {            
             alert(errormessage.responseText);
         }
     });
