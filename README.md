@@ -14,7 +14,7 @@ This application is created with:
 * C# 
 * ASP.NET MVC 5
 * ASP.NET Web API
-* Entity Framework
+* Entity Framework (Code First Approach)
 * SQL Server 2012
 * JQuery AJAX
 	
